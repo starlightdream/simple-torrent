@@ -1,0 +1,11 @@
+{
+  "name": "Simple Torrent",
+  "description": "A web for torrenting",
+  "repository": "https://github.com/boypt/simple-torrent",
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "M"
+    }
+  }
+}
